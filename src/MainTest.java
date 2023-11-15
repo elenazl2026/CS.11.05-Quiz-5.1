@@ -1,6 +1,6 @@
 import static org.junit.jupiter.api.Assertions.*;
 
-class MainTest {
+class  MainTest {
 
     private int[] array1 ;
     private int[] array2;
